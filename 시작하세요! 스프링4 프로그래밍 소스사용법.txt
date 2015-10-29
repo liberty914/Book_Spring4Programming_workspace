@@ -1,0 +1,8 @@
+1. 이클립스 EE를 실행시킨다.
+
+2. Project Explorer 창에 우클릭 - import - Existing Maven Projects - 소스폴더 선택하고 import
+
+3. import된 모든 프로젝트를 선택후 우클릭 - Maven - Update Project
+
+4. 완료되면 빨간불이 뜨는 프로젝트가 있다.
+	- 우클릭 - Properties - Targeted Runtimes - 아파치 톰캣 7.0 선택후 ok

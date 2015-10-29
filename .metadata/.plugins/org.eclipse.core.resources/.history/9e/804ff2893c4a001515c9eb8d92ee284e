@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ch11-jsr303-validation">
+        <property name="context-root" value="ch11-jsr303-validation"/>
+        <property name="java-output-path" value="/ch11-jsr303-validation/target/ch11-jsr303-validation-0.1.0.BUILD-SNAPSHOT/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>
